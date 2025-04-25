@@ -1,13 +1,2 @@
-- 👋 Hi, I’m @NickSharpe7
-- 👀 I’m interested in ...
-Software Development! Front end, back end, databases, cyber security, cloud, and machine learning
-- 🌱 I’m currently learning ...
-Algorithms
-- 💞️ I’m looking to collaborate on ...
-Anything that sounds fun
-- 📫 How to reach me ...
-Right here
-<!---
-NickSharpe7/NickSharpe7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nick
+
